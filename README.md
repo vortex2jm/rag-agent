@@ -16,6 +16,9 @@ pip install -r requirements.txt
 
 Execution
 ```
+docker compose up -d
+```
+```
 python3 main.py
 ```
 
