@@ -1,6 +1,6 @@
 # Crion Agent
 
-Custom AI agent to generate YouTube and Reels road maps based in a knowledge base
+Simple Retrieval Augmented Generation agent with PDF knowledge base, session storage and playground
 
 ### Usage
 Install dependencies
